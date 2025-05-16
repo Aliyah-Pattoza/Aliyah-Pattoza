@@ -1,6 +1,6 @@
 <h1 align="center">Heello World!, I'm Aliyah Pattoza 👋</h1>
 
-![github-header-image](https://github.com/user-attachments/assets/e7e25825-eace-49b2-b76c-9176d5853af8)
+![github-header-image (2)](https://github.com/user-attachments/assets/7632b439-2117-4098-be22-9ac7c2dc3186)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F78F8F&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Informatics+Student+at+ITS;Tech+Enthusiast+%F0%9F%92%BB;Always+Learning+Something+New!" alt="Typing SVG" />
